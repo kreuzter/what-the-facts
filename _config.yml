@@ -14,10 +14,6 @@ collections:
   posts:
     output: true
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
 defaults:
     values:
       layout: post
