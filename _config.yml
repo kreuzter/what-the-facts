@@ -18,6 +18,9 @@ defaults:
     values:
       layout: post
 
+minima:
+  skin: classic
+
 liquid:
   error_mode: strict
 
