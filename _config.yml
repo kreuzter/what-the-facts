@@ -19,10 +19,8 @@ plugins:
   - jekyll-sitemap
 
 defaults:
-  - scope:
-      path: ""
     values:
-      layout: page
+      layout: post
 
 liquid:
   error_mode: strict
