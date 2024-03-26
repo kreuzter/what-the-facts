@@ -1,0 +1,1 @@
+Over a (little bit too large) cup of coffee after lunch, colleagues - especially in an international team - easily come across interesting facts. Like about the Emu war or that not everywhere in the world the unlucky day is Friday the 13th. Or they might argue about some absolutely essential topic. Are leeks spring onions?
